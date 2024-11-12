@@ -2764,3 +2764,4 @@ PHPAPI void dummy_indent(void)
  * vim600: sw=4 ts=4 fdm=marker
  * vim<600: sw=4 ts=4
  */
+//این یک متن تستی برای من است
